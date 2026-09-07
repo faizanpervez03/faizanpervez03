@@ -8,7 +8,7 @@ I'm a Software Developer specializing in the **MERN Stack**, building modern, sc
 
 ## 🚀 About Me
 
-- 💻 Software Developer with **4+ years** of practical experience
+- 💻 Software Developer with **3+ years** of practical experience
 - ⚛️ Specialized in **React.js** and MERN Stack development
 - 🌐 Building modern and responsive web applications
 - 🔧 Experienced in REST APIs and backend development
