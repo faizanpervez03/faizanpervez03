@@ -1,51 +1,75 @@
-👋 Hi, I'm Faizan Pervez
-💻 Software Developer | MERN Stack Developer | Full-Stack Developer
-I'm a Software Developer specializing in the MERN Stack, building modern, scalable, and user-friendly web applications.
+# 👋 Hi, I'm Faizan Pervez
 
-I work with React.js, JavaScript, Node.js, Express.js, MongoDB, Tailwind CSS, Git, and GitHub to develop complete web solutions from frontend interfaces to backend APIs and databases.
+### Software Developer | MERN Stack Developer | Full-Stack Developer
 
-🚀 About Me
-💻 Software Developer with 4+ years of practical experience
-⚛️ Specialized in React.js and MERN Stack development
-🌐 Building modern and responsive web applications
-🔧 Experienced in REST APIs and backend development
-🗄️ Working with MongoDB and database-driven applications
-🎨 Creating clean and responsive UI with Tailwind CSS
-🔀 Experienced with Git and GitHub workflows
-🤖 Interested in AI-powered applications and automation
-🚀 Always learning new technologies and improving my skills
-🛠️ Technical Skills
-Frontend
-HTML5 • CSS3 • JavaScript • React.js • Vite • Bootstrap • Tailwind CSS • Material UI
+I'm a Software Developer specializing in the **MERN Stack**, building modern, scalable, and user-friendly web applications — from frontend interfaces to backend APIs and databases.
 
-Backend
-Node.js • Express.js • REST APIs
+---
 
-Database
-MongoDB • MongoDB Atlas
+## 🚀 About Me
 
-Tools & Technologies
-Git • GitHub • VS Code • Redux Toolkit • Axios • Cloudinary
+- 💻 Software Developer with **4+ years** of practical experience
+- ⚛️ Specialized in **React.js** and MERN Stack development
+- 🌐 Building modern and responsive web applications
+- 🔧 Experienced in REST APIs and backend development
+- 🗄️ Working with MongoDB and database-driven applications
+- 🔀 Experienced with Git and GitHub workflows
+- 🤖 Interested in AI-powered applications and automation
+- 📚 Always learning new technologies and improving my skills
 
-📌 Featured Projects
-🛒 Mohmand Shop Mega Mart
-A full-stack e-commerce application built using the MERN stack.
+---
 
-Technologies: React.js, Vite, Node.js, Express.js, MongoDB, Tailwind CSS
+## 🛠️ Technical Skills
 
-🤖 AI-Powered Medicine Suggestion App
-An AI-powered web application concept designed to help users understand medicine options based on information such as age, weight, and health problems.
+### 🎨 Front-End
+► **Language:** HTML, CSS3/SCSS/LESS, JavaScript, TypeScript
+► **Framework and Libraries:** React/Redux & React Hooks, NextJS, TypeScript, Material UI, Reactstrap, Jquery, Semantic UI, JSS, Styled Components, TailWind, AntD, Redux-Saga & Redux-Thunk, Redux-Form, React-Router, React-Helmet, React Charts, Leaflet, Recharts and more!
 
-📞 KP 911 Emergency Helpline
-Software development work for an emergency helpline environment, including an attendance management system and other operational tools.
+### 🔙 Back-End
+► **Language:** JavaScript, Node.js
+► **Framework:** Express, Socket.io, Mongoose
+► **API:** RESTful
 
-📊 GitHub Stats
-Faizan's GitHub Stats
+### 💾 Database Service
+► MongoDB, FireBase, Mongoose
 
-💻 Most Used Languages
-Top Languages
+### ☁️ Cloud Service
+► AWS, FireBase, DigitalOcean, GCP
 
-🤝 Let's Connect
-I'm always interested in working on interesting software projects, learning new technologies, and collaborating with developers.
+### 🔒 Version Control System
+► GitHub/GitLab
 
-Thanks for visiting my profile! 🚀
+---
+
+## 📌 Featured Projects
+
+### 🔐 911Sync – Biometric Attendance System
+Production MERN stack biometric attendance system built for the KPK 911 Emergency Helpline, integrated with a ZKTeco biometric device for real-time attendance tracking.
+**Tech:** React.js, Node.js, Express.js, MongoDB, Biometric Device Integration
+
+### 🛒 Mohmand Shop Mega Mart
+Full-stack e-commerce application built using the MERN stack.
+**Tech:** React.js, Vite, Node.js, Express.js, MongoDB, Tailwind CSS
+
+### 🤖 AI-Powered Medicine Suggestion App
+AI-powered web application concept to help users understand medicine options based on age, weight, and health conditions.
+
+### 📞 KP 911 Emergency Helpline
+Software development work for an emergency helpline environment, including CRM systems, network infrastructure, and operational tools.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanpervez03&show_icons=true&theme=radical" alt="Faizan's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanpervez03&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in working on interesting software projects, learning new technologies, and collaborating with other developers.
+
+**Thanks for visiting my profile! 🚀**
